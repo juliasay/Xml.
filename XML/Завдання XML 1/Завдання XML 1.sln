@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Завдання XML 1", "Завдання XML 1.csproj", "{3B58A748-7C39-4D8A-AF7F-1FC5416B2548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B58A748-7C39-4D8A-AF7F-1FC5416B2548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B58A748-7C39-4D8A-AF7F-1FC5416B2548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B58A748-7C39-4D8A-AF7F-1FC5416B2548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B58A748-7C39-4D8A-AF7F-1FC5416B2548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E6BBF6-342B-4A60-97B0-18D229F82928}
+	EndGlobalSection
+EndGlobal
